@@ -14,15 +14,11 @@ zarinpal==1.0.0
 flask==3.0.0
 
 # Additional Utilities
-asyncio
 pathlib
 uuid
-threading
 logging
-json
 re
-os
-sys
+
 math
 random
 datetime
