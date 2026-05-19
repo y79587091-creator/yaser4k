@@ -17,7 +17,7 @@ flask==3.0.0
 pathlib
 uuid
 logging
-re
+
 
 math
 random
