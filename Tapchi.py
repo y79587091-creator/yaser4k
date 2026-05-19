@@ -880,7 +880,7 @@ def is_trial_active(user_id):
     return now < expiry
             
 # BOT & API Credentials
-BOT_TOKEN = "8637704250:AAEQF3t_EzYZ8qvHub0AwTzNFbM4jsm5a5w"
+BOT_TOKEN = "8808314666:AAHLlgH5P9zUuPYwg6q9RfGG3MirIYLFAKo"
 ADMIN_ID = 7017628708
 API_ID = 29675619
 API_HASH = "02ed1be4d30cb7fce8616f7f270537f5"
