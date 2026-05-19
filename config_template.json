@@ -1,0 +1,14 @@
+{
+  "bot_token": "YOUR_BOT_TOKEN_HERE",
+  "admin_id": 7135477742,
+  "zarinpal": {
+    "merchant_id": "YOUR_ZARINPAL_MERCHANT_ID_HERE",
+    "sandbox_mode": true,
+    "callback_url": "https://your-domain.com/zarinpal_callback"
+  },
+  "webhook": {
+    "host": "0.0.0.0",
+    "port": 5000,
+    "debug": false
+  }
+}
